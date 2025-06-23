@@ -1,0 +1,5 @@
+#!/bin/bash
+if [ "(stat -c 
+then
+chown vincent hello
+fi
